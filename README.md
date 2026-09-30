@@ -5,7 +5,8 @@ Launcher Windows nho de mo link Roblox bang protocol `roblox://` cua ung dung Ro
 ## Tinh nang
 
 - Ho tro link game va link invite/share cua Roblox.
-- Mo Roblox hoac client Roblox da duoc cai tren may.
+- Tu dong tim cac Roblox client da dang ky trong Windows, khong gioi han ba launcher co dinh.
+- Chon executable qua muc Custom neu client khac chua duoc tu nhan dien.
 - Khong yeu cau quyen Administrator va khong xu ly thong tin dang nhap Roblox.
 
 RobloxDirect can Roblox duoc cai va da dang ky protocol `roblox://` voi Windows.
